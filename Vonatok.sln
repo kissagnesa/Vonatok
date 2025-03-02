@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vonatok", "Vonatok.csproj", "{829B948A-FB80-4F5B-A2DD-C210F949536E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VonatokWPF", "..\VonatokWPF\VonatokWPF.csproj", "{104372E8-530C-43D1-BAB5-FA4C04425A4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{829B948A-FB80-4F5B-A2DD-C210F949536E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{829B948A-FB80-4F5B-A2DD-C210F949536E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{829B948A-FB80-4F5B-A2DD-C210F949536E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{104372E8-530C-43D1-BAB5-FA4C04425A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{104372E8-530C-43D1-BAB5-FA4C04425A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{104372E8-530C-43D1-BAB5-FA4C04425A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{104372E8-530C-43D1-BAB5-FA4C04425A4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
